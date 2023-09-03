@@ -1,2 +1,15 @@
-site_name: My Docs
-title:  Masataka Iwai 
+# contents
+nav:
+  - Home:
+      - インデックス: index.md
+      - ほげ: hoge.md
+
+# metadata
+site_name: MkDocs Test Site
+#docs_dir: src
+#use_directory_urls: false
+
+# theme
+theme:
+  name: material
+  language: ja
