@@ -1,15 +1,5 @@
-# contents
-nav:
-  - Home:
-      - インデックス: index.md
-      - ほげ: hoge.md
+site_name: TEst
+theme: readthedocs
 
-# metadata
-site_name: MkDocs Test Site
-#docs_dir: src
-#use_directory_urls: false
-
-# theme
-theme:
-  name: material
-  language: ja
+pages:
+- Home: index.md
