@@ -6,6 +6,7 @@ layout: default
 岩井雅崇のホームページです。
 英語版はこちら→[English Version](https://masataka123.github.io/blog3_e/)
 
+
 ## **予定など**
 - 2023年度日本数学会地方区代議員（阪神支部）に選出されました．皆様よろしくお願いいたします．
 - 2023年5月に新しい論文を出しました. [arXiv](https://arxiv.org/abs/2303.00268)  Chen Jiang氏, Haidong Liu氏との共同研究です. 
